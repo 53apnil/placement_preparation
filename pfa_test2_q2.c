@@ -1,3 +1,5 @@
+//implementing the fcfs cpu scheduling algorithm
+
 #include<stdio.h>
 #include<malloc.h>
 
