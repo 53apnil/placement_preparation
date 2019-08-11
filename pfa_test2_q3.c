@@ -1,3 +1,5 @@
+//preemtive logest remaining time first cpu scheduling algorithm
+
 #include<stdio.h>
 #include<malloc.h>
 
